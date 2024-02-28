@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on creating a website for studying that compiles resources for classes. Looking to also make it community specific to schools and grades.
 - 📫 How to reach me hannaxu4@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I enjoy baking
-
+- ⚡ Fun fact: I've used python the most out of most languages
 <!---
 HanaXu20/HanaXu20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
